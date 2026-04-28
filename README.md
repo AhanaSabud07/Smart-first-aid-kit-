@@ -112,17 +112,17 @@ Quick Scan (Home)
 <img width="291" height="349" alt="image" src="https://github.com/user-attachments/assets/1a75d5f1-9a3b-429d-b92a-1fd48bd9ae72" />
 <img width="290" height="349" alt="image" src="https://github.com/user-attachments/assets/73f3375b-4a53-46e0-8307-c4bc72cebadd" />
 
-Architecture diagram
+## Architecture diagram
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/eb4379f5-d291-4e14-8583-e6e422063b2e" />
 
 ---
 
 ## 💡 Future Improvements
 
-* Real-time API integration for maps and hospitals
-* Live ambulance tracking
-* AI-based injury detection
-* Chat support with medical professionals
+* Integration with real censors
+* Video call with doctors
+* Cloud health records
+* Voice integration
 
 ---
 
